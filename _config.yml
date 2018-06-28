@@ -1,23 +1,22 @@
 # Site settings
-title: Antonio Pedro Ferreira - Sonhador, Empreendedor, Engenheiro de Software, Musico e muito mais
-description: Um blog sobre tecnologia, musica, meus causos e afins.
+title: Antonio Pedro Ferreira - Sonhador, Engenheiro de Software, Empreendedor e Músico nas horas vagas
+description: Um blog sobre tecnologia, empreendedorismo, musica e afins.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://antoniopedro.com.br" # the base hostname & protocol for your site e.g. http://google.com.br
 
 # User settings
-username: Antonio Pedro
-user_description: preparar uma boa descrição
+username: Antonio Pedro Ferreira
+user_description: Sonhador, Engenheiro de Software, Empreendedor e Músico nas horas vagas
 email: contato@antoniopedro.com.br
 twitter_username: sochins
 github_username:  apsferreira
 gplus_username:  apsf88
-disqus_username: naosei
+disqus_username: sochin
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-
 
 # html minify
 compress_html:
@@ -30,13 +29,11 @@ compress_html:
 # For external links add external: true
 links:
   - title: Home
-    url: /
-  - title: Series
-    url: /series
+    url: /  
   - title: Tags
     url: /tags
   - title: Sobre mim
-    url: /sobre
+    url: /about
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
