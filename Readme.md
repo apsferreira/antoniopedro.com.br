@@ -1,6 +1,4 @@
-## Cards Jekyll Template - [Demo](https://willianjusten.github.io/cards-jekyll-template)
-
-![Screenshot](screenshot.png)
+## Cards Jekyll Template
 
 This is a simple and minimalist template for Jekyll designed for developers that want to write blog posts but don't want to care about frontend stuff.
 
@@ -21,8 +19,6 @@ The Theme features:
 - Color Customization
 - Info Customization
 
-If you want to see this template in real action, take a look at my [original site](http://willianjusten.com.br/).
-
 ## Basic Setup
 
 1. [Install Jekyll](http://jekyllrb.com) (use the command ```sudo gem install jekyll```)
@@ -31,7 +27,6 @@ If you want to see this template in real action, take a look at my [original sit
 4. Edit `_config.yml` to personalize your site.
 5. Check out the sample posts in `_posts` to see examples for assigning categories and tags, and other YAML data.
 6. Read the documentation below for further customization pointers and documentation.
-7. **Remember to compile your assets files with Gulp.**
 
 ## Site and User Settings
 
@@ -39,7 +34,7 @@ You have to fill some informations on `_config.yml` to customize your site.
 
 ```
 # Site settings
-title: Willian Justen - Desenvolvedor Front End
+title: Antonio Pedro Ferreira
 description: A blog about lorem ipsum dolor sit amet
 baseurl: "" # the subpath of your site, e.g. /blog/ or empty.
 url: "http://localhost:3000" # the base hostname & protocol for your site 
