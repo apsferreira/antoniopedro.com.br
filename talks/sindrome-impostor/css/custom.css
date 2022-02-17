@@ -1,0 +1,9 @@
+.texto-longo {
+  width: 700px;
+}
+
+@media print {
+  .texto-longo {
+    width: 500px;
+  }
+}
