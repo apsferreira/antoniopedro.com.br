@@ -8,10 +8,8 @@ url: "https://antoniopedro.com.br" # the base hostname & protocol for your site 
 username: Antonio Pedro Ferreira
 user_description: Sonhador, Engenheiro de Software, Empreendedor e Músico nas horas vagas
 email: contato@antoniopedro.com.br
-twitter_username: sochins
+twitter_username: apsferreira_
 github_username:  apsferreira
-gplus_username:  apsf88
-disqus_username: sochin
 
 # Build settings
 markdown: kramdown

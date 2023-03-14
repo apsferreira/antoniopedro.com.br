@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#1 - Por que usar SVG?"
+title: "#Por que usar SVG?"
 date: 2022-01-08 08:39:47
 description: "O SVG finalmente começa dar o ar das graças e você vai saber aqui o porquê disso."
 main-class: 'svg'

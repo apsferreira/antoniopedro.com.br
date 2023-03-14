@@ -3,7 +3,7 @@
 # ------------------------------------------------------------------------------
 #
 # Program: initpost.sh
-# Author:  Vitor Britto
+# Author:  Antonio Pedro Ferreira
 # Description: script to create an initial structure for my posts.
 #
 # Usage: ./initpost.sh [options] <post name>
@@ -46,7 +46,7 @@ POSTPATH="${BINPATH}/_posts"
 DIST_FOLDER="$POSTPATH"
 
 # Set your blog URL
-BLOG_URL="https://willianjusten.com.br"
+BLOG_URL="https://antoniopedro.com.br"
 
 # Set your assets URL
 ASSETS_URL="assets/img/"
