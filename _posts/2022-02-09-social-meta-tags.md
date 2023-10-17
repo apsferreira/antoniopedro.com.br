@@ -21,12 +21,6 @@ Estou aqui de novo para mais uma **#dicarapida** sobre um assunto que é bastant
 
 Hoje em dia, as redes sociais são fundamentais para que a gente consiga alcançar um maior número de pessoas. Antes isso ficava mais a cargo das pesquisas orgânicas, ads e outros modelos de divulgação (email marketing, spots de rádio, tv, etc).
 
-No meu blog, muito do acesso é dado pelas redes sociais, sendo o facebook o maior propagador, acho que é porque sigo os passos do [Fernando Daciuk](http://blog.da2k.com.br/) e mando spam para todos os grupos do face =p
-
-Segue o gráfico abaixo, indicando as origens de acessos do meu blog:
-
-![Gráfico de Acessos do Blog por Origem](/assets/img/dica-rapida-2/canais.png)
-
 ## Mas e por que dessa tal de Meta Tag?
 
 Cada rede social possui um conjunto de informações para serem lidas e elas serão enviadas do seu site para as redes através dessas Meta Tags. Isso que permite que as redes leiam seu link e já preencham o post de informações. Elas podem ser visíveis para os outros usuários, como: imagem, título, descrição, hiperlink. Mas também podem ser informações somente para análise da rede social, como o tipo do site (blog, website, ecommerce), autor, hora de publicação, tags e etc.
@@ -79,20 +73,6 @@ Seguem as tags básicas:
 Para que o twitter passe a aceitar seus cards, você precisa validar [neste link aqui](https://cards-dev.twitter.com/validator). Após validado, quando você postar algum link do seu site, ele será visualizado conforme a imagem abaixo:
 
 ![Imagem de um post no twitter](/assets/img/dica-rapida-2/twitter-post.png)
-
-## Google Plus
-
-Por último, mas não menos importante, vem o Google Plus. Apesar de muita gente achar inútil, ele tem uma indexação excelente e por ser do google, muitas vezes é favorecido, portanto, não vamos esquecer dele =p
-
-Ele segue o padrão do [Schema.org](http://schema.org/) e seguem abaixo as tags:
-
-{% highlight html %}
-<link rel="author" href="google plus do autor">
-<!-- Social: Google+ / Schema.org  -->
-<meta itemprop="name" content="Título da página">
-<meta itemprop="description" content="Pequena descrição">
-<meta itemprop="image" content="imagem da página">
-{% endhighlight %}
 
 ## Conclusão
 
