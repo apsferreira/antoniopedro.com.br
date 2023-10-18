@@ -1,17 +1,21 @@
-
 ---
 layout: post
 comments: true
-title: "Algorítimos"
+title: "Primeiros passos da jornada de um desenvolvedor"
 date: 2023-10-15 03:06:56
 image: '/assets/img/'
-description:
-main-class:
-color:
+description: "Primeiros passos da jornada de um desenvolvedor"
+main-class: 'Desenvolvimento'
+color: '#7D669E'
 tags:
+- GO
+- Algoritmos
+- Desenvolvimento
+- Iniciantes
 categories:
+- "Primeiros passos da jornada de um desenvolvedor"
 twitter_text:
-introduction:
+introduction: "Muita gente me pergunta como começar o aprendizado de desenvolvimento, dessa vez, decidi escrever uma série de posts que irão auxiliar o entendimento de quem estiver interessado a dar os primeiros passos na jornada do desenvolvedor."
 ---
 
 ## Entendendo a proposta
@@ -43,7 +47,7 @@ Ao longo dos próximos posts irei apresentar conceitos de Lógica de Programaç�
 
 Ao montar uma pizza temos a seguinte lista de ingredientes:
 
-![Lista de Ingredientes](/assets/img/1._Conceitos_Iniciais_-_01.png)
+![Lista de Ingredientes](/img/1._Conceitos_Iniciais_-_01.png)
 
 Quais seriam as opções de instruções?
 
@@ -63,7 +67,7 @@ Teremos um problema, pois colocaríamos o queijo onde? As instruções, que tamb
 
 Será esse o nosso melhor conjunto de instruções? Vamos ver o resultado?
 
-![Pizza V1](/assets/img/1._Conceitos_Iniciais_-_02.png)
+![Pizza V1](/img/1._Conceitos_Iniciais_-_02.png)
 
 Esquecemos de alguma coisa? Precisamos fatiar os ingredientes! Nova receita:
 
@@ -81,7 +85,7 @@ Esquecemos de alguma coisa? Precisamos fatiar os ingredientes! Nova receita:
 
 Será!?
 
-![Pizza V2](/assets/img/1._Conceitos_Iniciais_-_03.png)
+![Pizza V2](/img/1._Conceitos_Iniciais_-_03.png)
 
 Agora sim!  Montamos nossa pizza e conseguimos entender o quanto comandos imprecisos ou a falta deles podem nos levar a resultados inesperados!
 
