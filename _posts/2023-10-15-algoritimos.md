@@ -51,7 +51,7 @@ Quais seriam as opções de instruções?
 
 Se sugerirmos:
 
-1 – AdicionarQueijo()
+1 – AdicionarQueijo
 
 Teremos um problema, pois colocaríamos o queijo onde? As instruções, que também são conhecidas como comandos, precisam ser objetivas, mas também necessitam estar ordenadas. Vamos iniciar novamente:
 
