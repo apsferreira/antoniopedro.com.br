@@ -1,21 +1,19 @@
 ---
 layout: post
 comments: true
-title: "Primeiros passos da jornada de um desenvolvedor"
+title: "Os primeiros passos da jornada de um desenvolvedor"
 date: 2023-10-15 03:06:56
 image: '/assets/img/'
-description: "Primeiros passos da jornada de um desenvolvedor"
-main-class: 'Desenvolvimento'
+description: "OS primeiros passos da jornada de um desenvolvedor"
+main-class: 'Dev'
 color: '#7D669E'
 tags:
-- GO
-- Algoritmos
-- Desenvolvimento
 - Iniciantes
+- Desenvolvimento
 categories:
-- "Primeiros passos da jornada de um desenvolvedor"
+- "Os primeiros passos da jornada de um desenvolvedor"
 twitter_text:
-introduction: "Muita gente me pergunta como começar o aprendizado de desenvolvimento, dessa vez, decidi escrever uma série de posts que irão auxiliar o entendimento de quem estiver interessado a dar os primeiros passos na jornada do desenvolvedor."
+introduction: "Muita gente me pergunta como começar o aprendizado de desenvolvimento, dessa vez, decidi escrever uma série de posts que irão auxiliar o entendimento de quem estiver interessado a dar os primeiros passos da jornada de um desenvolvedor."
 ---
 
 ## Entendendo a proposta
@@ -23,7 +21,7 @@ introduction: "Muita gente me pergunta como começar o aprendizado de desenvolvi
 Ao longo dos proximos dias, estarei escrevendo uma série de posts que acredito que podem ajudar no aprendizado do basico para futuros desenvolvedores. Através de exemplos e exercícios, mostrarei como é possivel conectar as ideias de forma a resolvermos problemas mais complexos com o computador.
 
 
-## Afinal, o que são algorítimos?
+## Mas afinal, o que são algorítimos?
 
 Muto se fala sobre algorítimos, mas na prática, nem sempre esse termo é explicado e é claro. O termo algoritmo refere-se a uma sequência de instruções bem definidas para chegarmos a um objetivo. Como uma “sequência bem definida de instruções”, devemos entender instruções claras que podem ser facilmente entendidas por quem vai executá-las e em uma ordem bem estabelecida. Apesar do termo algoritmo ser muito utilizado na matemática e computação, ele está presente em muitas atividades do nosso dia a dia. Toda vez que executamos algum processo que pode ser repetido através de um conjunto de instruções como trocar o pneu de um carro, dar o nó em uma gravata, cozinhar um prato utilizando uma receita, tocar uma música utilizando uma partitura ou cifras, estamos executando um algoritmo.
 
@@ -47,7 +45,7 @@ Ao longo dos próximos posts irei apresentar conceitos de Lógica de Programaç�
 
 Ao montar uma pizza temos a seguinte lista de ingredientes:
 
-![Lista de Ingredientes](/img/1._Conceitos_Iniciais_-_01.png)
+![Lista de Ingredientes](../assets/img/1._Conceitos_Iniciais_-_01.png)
 
 Quais seriam as opções de instruções?
 
@@ -58,34 +56,50 @@ Se sugerirmos:
 Teremos um problema, pois colocaríamos o queijo onde? As instruções, que também são conhecidas como comandos, precisam ser objetivas, mas também necessitam estar ordenadas. Vamos iniciar novamente:
 
 1 – PegarMassa
+
 2 – AdicionarQueijo
+
 3 – AdicionarCalabresa
+
 4 – AdicionarTomate
+
 5 – AdicionarCheiroVerde
+
 6 – AdicionarCebola
+
 7 – AdicionarAzeitonas
 
 Será esse o nosso melhor conjunto de instruções? Vamos ver o resultado?
 
-![Pizza V1](/img/1._Conceitos_Iniciais_-_02.png)
+![Pizza V1](../assets/img/1._Conceitos_Iniciais_-_02.png)
 
 Esquecemos de alguma coisa? Precisamos fatiar os ingredientes! Nova receita:
 
 1 – FatiarQueijo
+
 2 – FatiarCalabresa
+
 3 – FatiarTomate
+
 4 – FatiarCebola
+
 5 – PegarMassa
+
 6 – AdicionarQueijo
+
 7 – AdicionarCalabresa
+
 8 – AdicionarTomate
+
 9 – AdicionarCebola
+
 10 – AdicionarCheiroVerde
+
 11 – AdicionarAzeitonas
 
 Será!?
 
-![Pizza V2](/img/1._Conceitos_Iniciais_-_03.png)
+![Pizza V2](../assets/img/1._Conceitos_Iniciais_-_03.png)
 
 Agora sim!  Montamos nossa pizza e conseguimos entender o quanto comandos imprecisos ou a falta deles podem nos levar a resultados inesperados!
 
