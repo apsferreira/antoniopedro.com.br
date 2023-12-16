@@ -63,6 +63,6 @@ Por isso, as empresas que adotam esse modelo frequentemente criam os seus própr
 
 No entanto, é um tipo de gestão trabalhoso, pois envolve mapear as competências necessárias em cada cargo, realizar processos seletivos de acordo com essas competências e avaliar cada funcionário de acordo com o seu desempenho, além de oferecer mecanismos para que essas competências sejam adequadamente desenvolvidas.
 
-### Qual o melhor?
+<!-- ### Qual o melhor?
  
-### Qual é o seu?
+### Qual é o seu? -->
