@@ -32,6 +32,8 @@ links:
     url: /tags
   - title: Sobre mim
     url: /about
+  - title: Talks
+    url: /talks/sindrome-impostor
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
